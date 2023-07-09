@@ -1,0 +1,9 @@
+= GitHub Pages
+:author: hituzi no sippo
+:email: dev@hituzi-no-sippo.me
+:revnumber: v1.0.0
+:revdate: 2023-07-09T17:00:53+09:00
+:revremark: Revision Remark
+:copyright: Copyright (C) 2023 {author}
+
+Hello World
